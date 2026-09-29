@@ -1,0 +1,8 @@
+{
+  "name": "Travel App",
+  "description": "A comprehensive Flow Management System for booking, travel planning, and billing, integrated with Google Sheets for real-time tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
